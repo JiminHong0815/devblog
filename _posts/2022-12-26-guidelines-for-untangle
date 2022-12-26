@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Guidelines for Untangle"
+date:   2022-12-26 18:00:00 +0900
+categories: development
+---
+
+
+## Introduction
+
+Game "Untangle" is one of Simon Tatham's puzzle collection, which can be found [here](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/untangle.html).
+The goal of this game is to untangle all of the lines.
+
+![Untangled](https://res.cloudinary.com/dzguym5xd/image/upload/v1672046556/coding2_wcasoo.png)
+
+So that it looks like the picture below.
+
+![Tangled](https://res.cloudinary.com/dzguym5xd/image/upload/v1672046351/coding1_qnsgpj.png)
+
+Lines shouldn't be touching each other.
+
+## How to Play
+
+- You may move the dots with your mouse.
+- If you finish untangling, then the screen will blink and tell you that the game is over.
+- You can change the number of dots shown in the picture below.
+![difficulty](https://res.cloudinary.com/dzguym5xd/image/upload/v1672049305/coding3_jiufae.png)
+
+Hope you enjoy the puzzle!
