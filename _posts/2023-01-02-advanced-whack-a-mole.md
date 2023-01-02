@@ -7,7 +7,7 @@ categories: development
 
 ## Introduction
 
-Have you ever heard of the game, "Whack-a-Mole"? This article contains information about why I wanted to make this game, and what kind of game it is.
+Have you ever heard of the game, "Whack-a-Mole"? This article contains information about why I wanted to make the advanced version of this game, and what kind of game it is.
 
 ## Background
 
