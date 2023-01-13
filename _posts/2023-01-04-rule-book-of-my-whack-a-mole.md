@@ -32,5 +32,3 @@ If you swipe, then you can move to other slides.
 ## End
 
 Though it's only third week of learning using figma, making posts on my blog, and learning UXs and stuff, I feel that I am doing this pretty well. Thanks for reading my post!
-
-If you swipe
