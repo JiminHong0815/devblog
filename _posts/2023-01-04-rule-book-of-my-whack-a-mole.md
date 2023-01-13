@@ -15,7 +15,7 @@ Last week, at the idea lottery with my team members, my whack-a-mole was luckily
 
 This is the app icon that I made using figma with icons from [flaticons.com](flaticons.com). To be honest, I think my icon won't be the one because I think it's bad. :(
 
-## Specific Rules
+## Tutorial : How to Lose
 
 There are several rules in the game. However, since I have designed the tutorial of how to lose, I would like to talk about the things I've done. If you are interested in other tutorials or other parts of the game, go to my other team member's blog.
 
@@ -25,6 +25,12 @@ There are several rules in the game. However, since I have designed the tutorial
 
 ![wamtut3](https://res.cloudinary.com/dzguym5xd/image/upload/v1673644180/wamrule3_ihztid.png)
 
-![wamtut4](https://res.cloudinary.com/dzguym5xd/image/upload/v1673644180/wamrule4_lmamsf.png)
+![wamtut4](https://res.cloudinary.com/dzguym5xd/image/upload/v1673644786/wamrule5_r7pgel.png)
+
+If you swipe, then you can move to other slides.
+
+## End
+
+Though it's only third week of learning using figma, making posts on my blog, and learning UXs and stuff, I feel that I am doing this pretty well. Thanks for reading my post!
 
 If you swipe
